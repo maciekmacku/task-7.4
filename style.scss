@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans+Condensed');
+
+.jumbo-image {
+    height: 300px;
+    background: url(https://images.pexels.com/photos/375510/pexels-photo-375510.jpeg?h=350&auto=compress&cs=tinysrgb);
+    color: white;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+	color: floralwhite;
+    font-family: 'IBM Plex Sans Condensed', sans-serif; 
+}
+
+.panel-body-custom {
+    font-family: 'IBM Plex Sans Condensed', sans-serif;
+    font-weight: 700;
+    border: 3px solid lightgray;
+	
+}
