@@ -1,5 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=IBM+Plex+Sans+Condensed");
 .jumbo-image {
+  display: flex;
+  flex-wrap: wrap;
   height: 300px;
   background: url(https://images.pexels.com/photos/375510/pexels-photo-375510.jpeg?h=350&auto=compress&cs=tinysrgb);
   color: white;
