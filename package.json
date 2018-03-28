@@ -6,8 +6,8 @@
 	
 	"scripts": {
 	"test": "npm run test:html",
-	"test:html": "globstar nu-html-checker *.html",
-
+	"test:html": "globstar nu-html-checker *.html"
+	},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/maciekmacku/task-7.4.git"
